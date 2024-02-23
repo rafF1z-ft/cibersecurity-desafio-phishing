@@ -30,7 +30,3 @@
 - O vídeo de apresentação deve ser um pouco antigo, pois o site do Facebook tem um certo 'bloqueio'
 - Eu utilizo um navegador muito seguro que me bloqueava tudo, tive que abrir no Google Chrome e desabilitar todas as extensões que também estavam me bloqueando
 - Percebi nas configurações do setoolkit (`/etc/setoolkit/set.config`) que há uma opção do Apache Server desativada, habilitei e percebi uma resposta mais eficiente!
-
-![Prin First](./print_phishing.png)
-![Print Second](./print_phishing(2).png)
-
